@@ -17500,7 +17500,7 @@ progress {
     }
 }
 
-.row {
+/*.row {
     --bs-gutter-x: 1.5rem;
     --bs-gutter-y: 0;
     display: flex;
@@ -17556,7 +17556,7 @@ progress {
 .row-cols-6 > * {
     flex: 0 0 auto;
     width:16.6666666667%
-}
+}*/
 
 .col-auto {
     flex: 0 0 auto;
