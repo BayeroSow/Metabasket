@@ -17512,8 +17512,8 @@ progress {
 
 .row > * {
     flex-shrink: 0;
-    width: 50%;
-    max-width: 50%;
+    width: 45%;
+    max-width: 45%;
     padding-right: calc(var(--bs-gutter-x) * 0.5);
     padding-left: calc(var(--bs-gutter-x) * 0.5);
     margin-top:var(--bs-gutter-y)
