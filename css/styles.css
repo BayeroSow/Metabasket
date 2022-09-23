@@ -875,7 +875,7 @@ progress {
 
 .g-5,
 .gx-5 {
-  --bs-gutter-x: 0rem;
+  --bs-gutter-x: 3rem;
 }
 
 .g-5,
@@ -15215,7 +15215,7 @@ html {
   /*max-width: 240px;*/
   padding-top: 0px;
 }
-opensea.io:1.frCFij .GettingStarted--step-container .GettingStarted--step {
+.frCFij .GettingStarted--step-container .GettingStarted--step {
   /*max-width: 100%;*/
   margin-bottom: 20px;
   margin-right: 20px;
