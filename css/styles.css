@@ -16829,7 +16829,7 @@ body {
   --bs-body-font-family: var(--bs-font-sans-serif);
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
-  --bs-body-line-height: 1.5;
+  --bs-body-line-height: 10;
   --bs-body-color: #fff;
   --bs-body-bg: #14192e;
 }
