@@ -15504,8 +15504,8 @@ p {
   display: block;
   margin-block-start: 1em;
   margin-block-end: 1em;
-  margin-inline-start: 63px;
-  margin-inline-end: 39px;
+  margin-inline-start:63px;
+  margin-inline-end:39px;
 }
 /**,*/ ::before/*, ::after*/ {
   box-sizing: border-box;
